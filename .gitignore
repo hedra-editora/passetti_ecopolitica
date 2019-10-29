@@ -1,7 +1,4 @@
-*~
-*.docx
-*.xdv
-*.swp
+\originais
 *.log
 *.aux
 *.toc
@@ -24,9 +21,5 @@
 *.tmp 
 *.idv 
 *.opf
-gitrevisioninfo.sty
-img/
-originais/
-original/
-capa/
+*.swp
 LIVRO.pdf
